@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Flutter, NestJS and Angular**
 
 - 📫 How to reach me **saddi.idris@gmail.com**
-- Also contact INSAT : **idris.saddi@insat.ucar.tn**
+- 📧 Second email, INSAT : **idris.saddi@insat.ucar.tn**
 
 - ⚡ Fun fact : **I'm The ONE you will find him everywhere...**
 

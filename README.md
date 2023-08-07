@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/syrda49" target="blank"><img src="https://img.shields.io/twitter/follow/syrda49?logo=twitter&style=for-the-badge" alt="syrda49" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, NestJS and Angular**
+- 🌱 I’m currently learning **Flutter and NestJS**
 
 - 📫 How to reach me **saddi.idris@gmail.com**
-- 📧 Second email, INSAT : **idris.saddi@insat.ucar.tn**
+- 📧 Second email, INSAT: **idris.saddi@insat.ucar.tn**
 
 - ⚡ Fun fact : **I'm The ONE you will find him everywhere...**
 

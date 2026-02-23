@@ -1,52 +1,122 @@
 <h1 align="center">Hi 👋, I'm Idris Saddi</h1>
-<h3 align="center">A passionate software engineer Student from Tunisia</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idris-saddi&theme=juicyfresh" alt="idris-saddi" /></a> </p>
+<h3 align="center" bold>Software Engineering Student & Impact-Driven Developer</h3>
 
 
-- 📫 How to reach me **saddi.idris@gmail.com**
-- 📧 Second email, INSAT: **idris.saddi@insat.ucar.tn**
-- ⚡ Fun fact : **I'm The ONE you will find him everywhere...**
+Hello there! I’m Idris, a software engineering student at INSAT with a passion for building scalable, high-impact software systems. I combine strong engineering fundamentals with hands-on experience in full-stack development, cloud-native systems, and AI integration.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/syrda49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syrda49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/idris-saddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idris-saddi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9575805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9575805" height="30" width="40" /></a>
-<a href="https://fb.com/syrda2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syrda2002" height="30" width="40" /></a>
-<a href="https://instagram.com/idris_saddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idris_saddi" height="30" width="40" /></a>
-<a href="https://dribbble.com/idris-saddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="idris-saddi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/syrda49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syrda49" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/idris-saddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="idris-saddi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/idris-saddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idris-saddi" height="30" width="40" /></a>
-<a href="https://discord.gg/IdrisSaddi#0617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="IdrisSaddi#0617" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongDB" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg" alt="SAP ABAP" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/aspnet-logo-ee864d3f.svg" alt="ASP.NET" width="40" height="40"/> </a>
-</p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idris-saddi&show_icons=true&locale=en&layout=compact&theme=juicyfresh" alt="idris-saddi" /></p>
+I am a full-stack and cloud-native developer experienced in designing and delivering complete software solutions — from architecture to deployment.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idris-saddi&show_icons=true&locale=en&theme=juicyfresh" alt="idris-saddi" /></p>
+- 💡 Strong foundation in Software Engineering, DevOps, and AI integration  
+- 📱 Mobile development with Flutter (single codebase for iOS & Android)  
+- ☁️ Cloud-native systems with Docker, Kubernetes, and CI/CD  
+- 🤖 AI-powered systems (LLMs, RAG, automation pipelines)  
+- 🚀 Hackathon participant & competitive programmer  
+- 🎯 Leadership experience as Startup Co-Founder & Tech Community Leader  
+
+I enjoy solving complex problems, building scalable systems, and working on impactful tech projects.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+C/C++, Python, Java, Dart, JavaScript/TypeScript, PHP, C#, Rust, ABAP  
+
+### 🌐 Frameworks & Libraries
+Flutter, Angular, React, Node.js, NestJS, Laravel, Spring Boot, ASP.NET, Symfony  
+
+### ⚙️ DevOps & Cloud
+Docker, Kubernetes, GitLab CI/CD, Prometheus, Grafana, WebAssembly (Wasm), Git  
+
+### 🗄 Databases
+MySQL, SQL Server, MongoDB, NoSQL  
+
+### 📊 Big Data & AI
+Kafka, Spark, Hadoop, RabbitMQ, LLM Integration (Groq), RAG, Neural Networks  
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Legal Chatbot & Invoice Processing System (2025)
+- Architected full CI/CD pipeline with GitLab, Docker & Kubernetes (Minikube)  
+- Built multilingual (Arabic/French) legal chatbot using RAG + LLMs  
+- Handled 100k+ tax law queries with citation-based responses  
+- Automated invoice data extraction with >80% structured accuracy  
+
+### 🔹 GitHub PR Big Data Pipeline (2025)
+- Designed batch & real-time data pipeline using Kafka, MongoDB & Spark  
+- Built React dashboard for visualization  
+- Processed 10,000+ simulated GitHub PR events  
+- Fully containerized with Docker Compose  
+
+### 🔹 DrugIT – IEEE INSAT Hackathon
+- Led a team of 4 engineers  
+- Developed ML model with 90%+ accuracy  
+- Built full-stack platform using Angular & NestJS  
+
+---
+
+## 💼 Professional Experience
+
+### AtlasFintech Solutions (France – Remote)
+**Software Engineer & Product Owner (2025)**  
+- Led team of 6 engineers  
+- Developed multi-ERP fintech platform using Rust & WebAssembly  
+- Focused on code quality, architecture & delivery management  
+
+### Medsirat (Tunisia)
+**Software Engineer Intern (2025)**  
+- Designed centralized log management system  
+- Built Kafka consumer microservice forwarding logs to Graylog (GELF)  
+- Containerized full logging stack (Docker Compose)  
+
+### K-Noon (Tunisia)
+**Co-Founder & Mobile Engineer (2023–2025)**  
+- Architected and developed full Flutter mobile app  
+- Integrated push notifications & local persistence  
+- Onboarded 100+ merchants & freelancers  
+
+### TUNAPS – SAP ABAP Developer Intern  
+### OCTA HUB – Web Development Intern  
+
+---
+
+## 🎓 Education & Certifications
+
+**Engineering Degree – Software Engineering**  
+National Institute of Applied Science and Technology (INSAT) – 2021–Present  
+
+**Certifications**
+- Associate Data Scientist – DataCamp  
+- SQL Server Developer – DataCamp  
+- Erasmus+ Youthpass (Youth Goals & Strategic Partnerships)  
+- National Student Entrepreneur Status – 2025  
+
+---
+
+## 🏆 Leadership & Activities
+
+- President – JCI INSAT  
+- Competitive Programming Trainer – ACM INSAT  
+- 4x TCPC (ICPC Tunisia) Finalist  
+- Startup Co-Founder  
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: https://github.com/idris-saddi  
+- LinkedIn: https://www.linkedin.com/in/idris-saddi  
+- LeetCode: https://leetcode.com/u/idris-saddi/  
+- Email: saddi.idris@gmail.com  
+
+---
+
+> “Build systems that scale. Lead with impact. Keep learning.” 🚀
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idris-saddi&theme=juicyfresh" alt="idris-saddi" /></p>
